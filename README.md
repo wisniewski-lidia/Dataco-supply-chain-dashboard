@@ -3,9 +3,9 @@
 **Interaktives Power BI Dashboard** zur Analyse von Umsatz, Gewinn, Lieferperformance und Verspätungsrisiken (basierend auf realem Supply-Chain-Datensatz).
 
 **Schlüssel-KPIs**  
-- Gesamtumsatz: 36,78 Mio. €  
+- Gesamtumsatz: 36,78 Mio. 
 - Gewinnmarge: 10,78 %  
-- Gesamtgewinn: 3,97 Mio. €  
+- Gesamtgewinn: 3,97 Mio.  
 - Verspätungsquote: 54,83 % (hohes Optimierungspotenzial in Lieferprozessen)
 
 **Visualisierungen**  
@@ -21,7 +21,8 @@
 - KPI-Cards, Bar-Charts, Line-Charts, Maps, Matrix, Slicers  
 
 **Dateien**  
-- [DataCo_Supply_Chain_Dashboard.pbix](DataCo_Supply_Chain_Dashboard.pbix) – Öffnen mit Power BI Desktop  
+- [DataCo Supply Chain Insight.pbix](DataCo_Supply_Chain_Dashboard.pbix) – Öffnen mit Power BI Desktop
+- Screenshot 
 
 **Hinweis**  
 Daten sind anonymisiert / öffentlich (keine personenbezogenen Informationen).  
